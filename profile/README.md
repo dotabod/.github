@@ -1,24 +1,19 @@
 # [Dotabod.com](https://dotabod.com) 🌺
 
-By leveraging insights from the Dota 2 official API, Dotabod will know exactly when to hide sensitive streamer information or engage with your Twitch audience.
+Based on information acquired through the Dota 2 official API, Dotabod will know the perfect times to conceal your sensitive streamer info or talk with your audience on Twitch.
 
 ---
 
-## Top features
+## Key features
 
 ### Twitch predictions creator
 
-Let your chatters bet with their native Twitch channel points whether you win or lose the game. After the match ends, the bets will close and points go to the winners!
+Allow your chatters to bet using their Twitch channel points on whether you are going to win or lose the match. Bets will close after the game ends, and the points will go to the winners!
 
 ### Minimap and hero picks blocker
 
- Stream snipers ruining your games? Tired of getting your picks banned?
-Your wards will be protected by our minimap blocker, and our picks
-blocker will make it impossible to see what hero you picked. Hides and
-shows when it needs to, automatically!
+Are stream snipers messing up your games? Tired of getting your picks banned? Hides your wards with our minimap blocker, hides your picks with our picks blocker, and which hero you pick. Shows automatically when it needs to hide and show!
 
 ### OBS scene switching
 
-Switch between scenes without a single click or press of a button. Dotabod will choose between three scenes based on whether you're disconnected from Dota, in an active game, or in picking phase.
-
----
+Change scenes without a single click or press of a button. Dotabod will select one of the three scenes in case you are disconnected from Dota in an active game or in a picking phase.
